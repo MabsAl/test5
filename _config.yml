@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Mab Alam"
-  avatar           : "claire_duvallet.jpg"
+  avatar           : "propic2.jpg"
   bio              : "Forest economist turned data scientist"
   location         : "Washington, DC"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=sXD-7J4AAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/"
   email            : "data.analyt@gmail.com"
   uri              :
   bitbucket        :
