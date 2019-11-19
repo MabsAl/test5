@@ -14,3 +14,5 @@ I am Mahbubul Alam, a PhD economist based out of Washington DC and interested in
 I can be reached via: mab.datasc[at]gmail.com or Twitter.
 
 Thanks!!
+
+![png](/images/propic2.jpg)
